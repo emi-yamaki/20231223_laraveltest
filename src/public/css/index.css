@@ -1,0 +1,136 @@
+.contact-form__heading {
+    text-align: center;
+    font-family: 'Mate',
+        serif;
+    color: #684d47e0;
+}
+.form {
+    width: 60%;
+    margin: 20px auto;
+}
+
+.form__group {
+    /* border-top: 1px solid #ddd; */
+    color: #684d47e0;
+    padding: 24px 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.form-item:nth-child(5) {
+    border-bottom: 1px solid #ddd;
+}
+
+.form__group-title {
+    width: 20%;
+    font-weight: lighter;
+    color: #684d47e0;
+    font-size: 16px;
+}
+
+.form-item-label-required {
+    /* border-radius: 6px; */
+    /* margin-right: 8px; */
+    /* padding: 8px 0; */
+    width: 30px;
+    display: inline-block;
+    text-align: center;
+    /* background: #5bc8ac; */
+    color: red;
+    font-size: 14px;
+}
+
+.form-item-input {
+    color: #684d47e0;
+    border: 1px solid #ddd;
+    /* border-radius: 6px; */
+    margin-left: 40px;
+    padding: 0 10px;
+    height: 48px;
+    width: 100%;
+    background: #f2f4f0;
+    font-size: 18px;
+}
+.form-item-name {
+    display: flex;
+    justify-content: space-between;
+}
+.form-item-name1 {
+    color: #684d47e0;
+    border: 1px solid #ddd;
+    /* border-radius: 6px; */
+    /* margin-left: 40px; */
+    padding: 0 10px;
+    height: 48px;
+    width: 100%;
+    background: #f2f4f0;
+    font-size: 18px;
+    
+    }
+.form-item-name2 {
+    color: #684d47e0;
+    border: 1px solid #ddd;
+    /* border-radius: 6px; */
+    margin-left: 40px;
+    padding: 0 10px;
+    height: 48px;
+    width: 100%;
+    background: #f2f4f0;
+    font-size: 18px;
+    
+}
+.form__input--text {
+    color: #684d47e0;
+}
+.form__input--text-tel {
+    color: #684d47e0;
+    border: 1px solid #ddd;
+    /* border-radius: 6px; */
+    margin-left: 40px;
+    padding: 0 10px;
+    height: 48px;
+    width: 28%;
+    background: #f2f4f0;
+    font-size: 18px;
+}
+.form-item-input-select {
+    color: #684d47e0;
+    border: 1px solid #ddd;
+        /* border-radius: 6px; */
+    margin-left: 5px;
+    padding: 0 10px;
+    height: 48px;
+    width: 50%;
+    background: #f2f4f0;
+    font-size: 18px;
+}
+
+
+
+.form-item-textarea {
+    border: 1px solid #ddd;
+    /* border-radius: 6px; */
+    color: #684d47e0;
+    margin-left: 40px;
+    padding: 0 10px;
+    height: 120px;
+    width: 100%;
+    background: #f2f4f0;
+    font-size: 18px;
+}
+
+.form-btn {
+    /* border-radius: 6px; */
+    margin: 32px auto 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 150px;
+    display: block;
+    background: #684d47e0;
+    color: #fff;
+    font-weight: lighter;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+}

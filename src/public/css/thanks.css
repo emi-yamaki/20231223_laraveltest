@@ -1,0 +1,43 @@
+.thanks__title {
+    width: 1230px;
+    height: 100px;
+}
+
+.thanks__title-text {
+    color: #f6f3f1e0;
+    font-family: 'Mate', serif;
+    font-size: 110px;
+    width: 100%;
+    min-height: 100vh;
+    text-align: center;
+    padding-left: 150px;
+}
+
+.thanks__massage {
+    width: 100%;
+    color: #684d47e0;
+    text-align: center;
+    position: relative;
+    top: 50px;
+
+}
+
+.home__button {
+    justify-content: center;
+    display: flex;
+}
+
+.form-btn {
+    font-size: 18px;
+    font-weight: lighter;
+    text-align: right;
+    font-family: 'Mate', serif;
+    color: #fff;
+    cursor: pointer;
+    border: #684d47e0;
+    background-color: #684d47e0;
+    padding-left: 20px;
+    padding-right: 20px;
+    position: relative;
+    top: 50px;
+}
